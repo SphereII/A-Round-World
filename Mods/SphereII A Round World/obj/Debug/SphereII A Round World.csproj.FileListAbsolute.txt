@@ -1,0 +1,6 @@
+C:\Builds\7DaysToDie\Mods\SphereII A Round World\bin\Debug\SphereII_A_Round_World.dll
+C:\Builds\7DaysToDie\Mods\SphereII A Round World\bin\Debug\SphereII_A_Round_World.pdb
+C:\Builds\7DaysToDie\Mods\SphereII A Round World\obj\Debug\SphereII A Round World.csproj.AssemblyReference.cache
+C:\Builds\7DaysToDie\Mods\SphereII A Round World\obj\Debug\SphereII A Round World.csproj.CoreCompileInputs.cache
+C:\Builds\7DaysToDie\Mods\SphereII A Round World\obj\Debug\SphereII_A_Round_World.dll
+C:\Builds\7DaysToDie\Mods\SphereII A Round World\obj\Debug\SphereII_A_Round_World.pdb
